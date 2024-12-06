@@ -108,7 +108,7 @@ ul {
     box-sizing: border-box;
 }
 
-a{
+a {
     text-decoration: none;
     color: #080a12;
 }
@@ -229,7 +229,7 @@ h1 {
     background: transparent;
     outline: none;
     padding: 0 8px;
-    width: 2.1em;
+    width: 1.8em;
 }
 
 button {
@@ -303,4 +303,21 @@ button:active {
     -webkit-transition: box-shadow 0.2s ease-in;
     -moz-transition: box-shadow 0.2s ease-in;
     transition: box-shadow 0.2s ease-in;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 325px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 1.5%;
+    box-sizing: border-box;
+    background-color: #fff;
 }
