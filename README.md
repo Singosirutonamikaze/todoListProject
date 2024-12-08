@@ -7,4 +7,4 @@
 <br>
 -xamp
 <br>
--base de donné binarysec ,si vous ne voulez pas  veuillez changez le nom de bdname dans  /connection
+-base de donné binarysec ,si vous ne voulez pas  veuillez changez le nom de bdname dans: <br> /connection/login.php <br> 
